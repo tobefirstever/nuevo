@@ -1,0 +1,7 @@
+C:\Users\YSABELITA\source\repos\slnPoco\CodeGenerate\bin\Debug\CodeGenerate.exe.config
+C:\Users\YSABELITA\source\repos\slnPoco\CodeGenerate\bin\Debug\CodeGenerate.exe
+C:\Users\YSABELITA\source\repos\slnPoco\CodeGenerate\bin\Debug\CodeGenerate.pdb
+C:\Users\YSABELITA\source\repos\slnPoco\CodeGenerate\obj\Debug\CodeGenerate.csprojAssemblyReference.cache
+C:\Users\YSABELITA\source\repos\slnPoco\CodeGenerate\obj\Debug\CodeGenerate.csproj.CoreCompileInputs.cache
+C:\Users\YSABELITA\source\repos\slnPoco\CodeGenerate\obj\Debug\CodeGenerate.exe
+C:\Users\YSABELITA\source\repos\slnPoco\CodeGenerate\obj\Debug\CodeGenerate.pdb
